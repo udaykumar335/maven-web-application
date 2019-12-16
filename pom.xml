@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.235.80.159:9000/</sonar.host.url>
+		<sonar.host.url>http://13.127.255.80:9000/</sonar.host.url>
 		<!--<sonar.login>3c3250646d962f847629acaefe6d63f1648533b2</sonar.login> -->
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/uday/</name>
-	      <url>http://13.233.184.32:8081/repository/atlasian_release/</url>
+	      <url>http://13.232.240.28:8081/repository/abc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
-	      <url>http://13.233.184.32:8081/repository/atlasian_snapshot/</url>
+	      <url>http://13.232.240.28:8081/repository/abc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

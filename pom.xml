@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/uday/</name>
-	      <url>http://13.232.240.28:8081/repository/abc-release/</url>
+	      <url>http://13.232.31.156:8081/repository/flipkart/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
-	      <url>http://13.232.240.28:8081/repository/abc-snapshot/</url>
+	      <urlhttp://13.232.31.156:8081/repository/filpkartsanpshot/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

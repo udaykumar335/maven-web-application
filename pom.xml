@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
-	      <urlhttp://13.232.31.156:8081/repository/filpkartsanpshot/></url>
+	      <url>http://13.232.31.156:8081/repository/filpkartsanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

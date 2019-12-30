@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/uday/</name>
-	      <url>http://13.233.109.216:8081/repository/book/</url>
+	      <url>http://13.233.109.216:8081/repository/door1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
-	      <url>http://13.233.109.216:8081/repository/book2/</url>
+	      <url>http://13.233.109.216:8081/repository/door1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

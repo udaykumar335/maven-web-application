@@ -92,9 +92,8 @@
 			<scope>provided</scope>
 		</dependency>
 		
-	</dependencies>
-	
-	<!-- <distributionManagement>
+	 <!-- </dependencies> -->	
+	 <distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -108,7 +107,7 @@
 	      <url>http://13.233.109.216:8081/repository/door1/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<finalName>maven-web-application</finalName>

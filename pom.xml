@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/uday/</name>
-	      <url>http://13.126.15.114:8081/repository/uuurepagitry/</url>
+	      <url>http://13.234.38.4:8081/repository/ooorepagitry/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
-	      <url>http://13.126.15.114:8081/repository/uuuusanapshot/</url>
+	      <url>http://13.234.38.4:8081/repository/ooosnapshat/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement> 

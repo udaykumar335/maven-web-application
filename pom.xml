@@ -92,13 +92,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>http://13.233.63.231:8081/repository/uday/</name>
+	      <name>http://http://13.232.94.35:8081/repository/maven-releases/</name>
 	      <url>http://13.234.38.4:8081/repository/ooorepagitry/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>http://13.233.63.231:8081/repository/udaysnapshot/</name>
+	      <name>http://http://13.232.94.35:8081/repository/maven-snapshots//</name>
 	      <url>http://13.234.38.4:8081/repository/ooosnapshat/</url>
 	    </snapshotRepository>
 	    

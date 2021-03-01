@@ -12,15 +12,13 @@
 <h1 align="center"> DEVOPS ENGINEERING
 <h1 align="center"> 
 <div style="text-align: center;"> CONGRATULATION "GOVARDHAN" SUCCESS COMPETED 1 YEAR IN SAP
+	
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
-		+91-9980923226,
-		<br>
+		
+		
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>

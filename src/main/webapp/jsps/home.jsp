@@ -9,10 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> Nov 3rd 7 PM IST we have online class demo .. Plz share with your friends...Very Good Training uday center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios. DevSecOps is also very good in market now, we are going to start new Batch on DevSecOps in January.</h1>
-<hr>
-<div style="text-align: center;">
+<h1 align="center"> DEVOPS ENGINEERING
+<h1 align="center"> 
+<div style="text-align: center;"> CONGRATULATION "GOVARDHAN" SUCCESS COMPETED 1 YEAR IN SAP
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>

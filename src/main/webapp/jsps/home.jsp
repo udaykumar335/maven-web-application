@@ -16,9 +16,7 @@
         <span>
 	        <img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
-	<span style="font-weight: bold;">
-		
-		
+	<span style="font-weight: bold;"> DEVOPS ENG	
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>

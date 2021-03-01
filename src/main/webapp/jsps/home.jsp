@@ -12,9 +12,10 @@
 <h1 align="center"> DEVOPS ENGINEERING
 <h1 align="center"> 
 <div style="text-align: center;"> CONGRATULATION "GOVARDHAN" SUCCESS COMPETED 1 YEAR IN SAP
-	
-	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+<hr>	
+<div style="text-align: center;>"	
+        <span>
+	        <img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		
